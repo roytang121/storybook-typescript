@@ -1,0 +1,16 @@
+button.ui.basic.button {
+  font-family: 'Open Sans' !important; }
+
+button.ui.basic.button.button-primary {
+  background-color: #008e96 !important;
+  color: #ffffff !important;
+  font-weight: bold !important;
+  border: none !important;
+  box-shadow: none !important; }
+  button.ui.basic.button.button-primary:hover {
+    background-color: #3badb1 !important; }
+  button.ui.basic.button.button-primary:active {
+    background-color: #006a79 !important; }
+
+
+/*# sourceMappingURL=main.css.map*/
